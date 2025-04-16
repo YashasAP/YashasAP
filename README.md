@@ -3,7 +3,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/YashasAP](https://github.com/YashasAP)
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Connect with me: yashasap03@gmail.com</h3>
 <p align="left">
 </p>
 
